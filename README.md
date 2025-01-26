@@ -50,7 +50,7 @@ pip install firebase-admin
 2. **Set Firebase Project Credentials:**
    Update the Firebase configuration file (`firebase_config.json`) with your Firebase project's settings. Include the API key, Auth Domain, and Project ID.
 
-### Step 5: Run the Application
+### Step 4: Run the Application
 
 Once the dependencies are installed and Firebase is configured, start the Streamlit application using the command below:
 
