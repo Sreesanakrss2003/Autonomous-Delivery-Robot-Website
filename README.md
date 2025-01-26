@@ -68,8 +68,8 @@ streamlit run app.py
 The Home Page allows users to specify the pickup and drop locations for a delivery. This simple interface ensures ease of use for setting up new deliveries.
 
 - **Key Elements:**
-  - **Pickup Location:** Input field to specify the pickup point.
-  - **Drop Location:** Input field to specify the delivery destination.
+  - **Start Location:** Input field to specify the pickup point.
+  - **End Location:** Input field to specify the delivery destination.
 
 ---
 
