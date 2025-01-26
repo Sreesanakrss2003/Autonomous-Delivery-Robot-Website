@@ -63,7 +63,7 @@ streamlit run app.py
 ## Application Pages Overview
 
 ### 1. **Home Page**
-![Home Page](./path-to-image/home.jpg)
+![Home Page](home.jpg)
 
 The Home Page allows users to specify the pickup and drop locations for a delivery. This simple interface ensures ease of use for setting up new deliveries.
 
@@ -74,7 +74,7 @@ The Home Page allows users to specify the pickup and drop locations for a delive
 ---
 
 ### 2. **Account Page**
-![Account](./path-to-image/account.jpg)
+![Account](account.jpg)
 
 This page displays the user account details, including the name and email ID of the registered user. The "Sign Out" button allows the user to log out of the dashboard securely.
 
@@ -85,7 +85,7 @@ This page displays the user account details, including the name and email ID of 
 ---
 
 ### 3. **Charging Page**
-![Charging](./path-to-image/charging.jpg)
+![Charging](charging.jpg)
 
 This page provides information about the robot's current charging status. It displays a message when the robot is charging and indicates that deliveries cannot be performed while charging.
 
@@ -96,7 +96,7 @@ This page provides information about the robot's current charging status. It dis
 ---
 
 ### 4. **Delivery Page**
-![Delivery](./path-to-image/delivery.jpg)
+![Delivery](delivery.jpg)
 
 This page is used to track and manage deliveries. It shows delivery details, including start and end times, the delivery route, and an option to delete a delivery record.
 
