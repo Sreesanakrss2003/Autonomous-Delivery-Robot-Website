@@ -63,7 +63,8 @@ streamlit run app.py
 ## Application Pages Overview
 
 ### 1. **Home Page**
-![Home Page](/temp/home.jpg)
+![Home Page]![home](https://github.com/user-attachments/assets/166fb36f-1058-447c-a91d-73598a4f91f6)
+
 
 The Home Page allows users to specify the pickup and drop locations for a delivery. This simple interface ensures ease of use for setting up new deliveries.
 
