@@ -31,29 +31,11 @@ git clone https://github.com/yourusername/autonomous-delivery-bot.git
 cd autonomous-delivery-bot
 ```
 
-### Step 2: Set Up a Virtual Environment
-Create and activate a Python virtual environment for the project to manage dependencies effectively.
 
-```bash
-# Create a virtual environment
-python -m venv venv
 
-# Activate the virtual environment
-# On Windows:
-venv\Scripts\activate
+### Step 2: Install Dependencies
+Install the required Python libraries:
 
-# On macOS/Linux:
-source venv/bin/activate
-```
-
-### Step 3: Install Dependencies
-Install the required Python libraries listed in the `requirements.txt` file.
-
-```bash
-pip install -r requirements.txt
-```
-
-Alternatively, you can install the main dependencies manually:
 
 ```bash
 pip install streamlit
@@ -61,7 +43,7 @@ pip install streamlit-option-menu
 pip install firebase-admin
 ```
 
-### Step 4: Configure Firebase
+### Step 3: Configure Firebase
 1. **Add the Firebase Service Account Key File:**
    Place the `firebase_service_account_key_file.json` file in the root directory of the project. Ensure this file contains the service account credentials for your Firebase project.
 
